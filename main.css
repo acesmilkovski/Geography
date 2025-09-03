@@ -1,0 +1,15 @@
+.main {
+    background-image: url('map-of-the-world-2401458_1280.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.banner {
+    background-image: url('Countries.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+}
