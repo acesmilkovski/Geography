@@ -27,7 +27,7 @@ response.json().then((data) => {
                     if(country.name.common!=="North Macedonia"){
                         checkMKD = country.name.common;
                     }else{
-                        checkMKD = "Македонија🇲🇰"
+                        checkMKD = "Македонија 🇲🇰"
                     }
                     const countryInfoDiv = document.getElementById("country-info");
                     countryInfoDiv.style.border = "1px solid #ccc";
